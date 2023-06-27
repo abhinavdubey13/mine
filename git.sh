@@ -1,10 +1,10 @@
-cd problems_2
-./git.sh
+# cd problems_2
+# ./git.sh
 
 
-cd ..
-cd problems/
-./git.sh
+# cd ..
+# cd problems/
+# ./git.sh
 
 
 
